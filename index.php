@@ -2,7 +2,7 @@
 require 'vendor/autoload.php';
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
-
+/*test*/
 /* ESSAI DE MONOLOG */
 //creer un logger
 $log = new Monolog\Logger('name');
