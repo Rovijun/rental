@@ -1,0 +1,31 @@
+div.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+div.modalMarge {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+div {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+div.foot {
+  opacity: 0.7;
+}
+
+.moi {
+  color: #ffffff;
+  opacity: 1;
+}
+
+input.btnSup, input.btnEdit {
+  margin-right: 25px;
+}
+
+img.imgCar {
+  width: 450px;
+}

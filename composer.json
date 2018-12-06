@@ -1,0 +1,12 @@
+{
+    "name": "ascione/rental",
+    "require": {
+        "monolog/monolog": "^1.24"
+    },
+    "authors": [
+        {
+            "name": "ascione roberto",
+            "email": "rovijun@gmail.com"
+        }
+    ]
+}
